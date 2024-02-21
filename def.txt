@@ -1,4 +1,2 @@
-insert two lines in this file 
-other profile inserted one line as well
-
-other change02.20
+I have just overwritten the content of the file
+ today is 22.02
