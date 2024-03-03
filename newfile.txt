@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 hello, new branch
-=======
-main branch
->>>>>>> main
-new branch
